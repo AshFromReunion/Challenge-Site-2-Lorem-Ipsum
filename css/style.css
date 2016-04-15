@@ -1,0 +1,186 @@
+body .container,
+body .container-fluid {
+    font-family: "Work Sans";
+    color: black;
+}
+
+.espace-bloc {
+    padding: 50px 0;
+}
+
+.espace-bloc2 {
+    padding: 25px 0;
+}
+
+body .no-padding {
+    padding: 0;
+}
+
+body .no-margin {
+    margin: 0;
+}
+
+.container .btn-default {
+    background-color: #a9823c;
+    color: white;
+    border-radius: 0;
+    border: none;
+}
+
+.container .duis-ut {
+    background-color: white;
+    border-radius: 0;
+    color: black;
+    border: none;
+    margin-left: 20px;
+    width: 210px;
+}
+
+.fa-envelope,
+.fa-phone {
+    color: #a9823c;
+}
+
+.container h1 {
+    font-size: 80px;
+    font-family: "Work Sans";
+    font-weight: 300;
+}
+
+.container h2,
+.container h3 {
+    font-family: "Work Sans";
+}
+
+.container h4 {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.ipsum-dolor {
+    font-size: 20px;
+    color: #eccb97;
+}
+
+
+/*debut header*/
+
+.container .logo {
+    text-align: center;
+    font-size: 60px;
+    background-color: #a9823c;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    line-height: 26px;
+    width: 295px;
+    margin: 0;
+    border-bottom: 35px solid #c9a360;
+}
+
+header .navbar-default {
+    background-color: transparent;
+}
+
+header .navbar-collapse .navbar-nav li a {
+    color: black;
+}
+
+header {
+    background: url("../images/fond.jpg") no-repeat;
+    height: 100%;
+}
+
+.text-intro {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.intro {
+    padding-top: 65px;
+    padding-bottom: 115px;
+}
+
+
+/*fin header*/
+
+
+/*debut article*/
+
+section h3 {
+    font-size: 40px;
+}
+
+.container .puce {
+    color: #a9823c;
+    margin-right: 10px;
+}
+
+section .contact {
+    margin-top: 50px;
+}
+
+.container .savoir-plus {
+    width: 215px;
+}
+
+.container .les-services {
+    width: 240px;
+}
+
+.nombre {
+    font-size: 90px;
+    font-weight: 200;
+    color: #a9823c;
+}
+
+.container .fa-chevron-left,
+.container .fa-chevron-right {
+    font-size: 50px;
+    padding: 20px;
+}
+
+
+/*fin article*/
+
+
+/*debut footer*/
+
+footer {
+    background-color: #a9823c;
+    padding-top: 50px;
+}
+
+footer .container {
+    color: white;
+}
+
+.container .ornare-elit {
+    width: 185px;
+}
+
+.container .fa-facebook,
+.container .fa-skype,
+.container .fa-linkedin {
+    font-size: 20px;
+    color: #eccb97;
+}
+
+.container .espace-social {
+    margin: 0 35px;
+}
+
+.copyright {
+    color: #eccb97;
+}
+
+.container .logo-footer {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    line-height: 26px;
+    margin: 0;
+}
+
+
+/*fin footer*/
