@@ -80,6 +80,7 @@ body .no-margin {
 
 header .navbar-default {
     background-color: transparent;
+    border: none;
 }
 
 header .navbar-collapse .navbar-nav li a {
